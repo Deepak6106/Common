@@ -668,3 +668,40 @@ http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1650.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", C Star HD
 http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2120.ts
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI AAJ TAK
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3708.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI NDTV INDIA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3712.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", AAJ News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3501.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", Aajtak TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3539.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI AAJ TAK
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3708.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", Zee News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3563.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI ZEE NEWS
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3744.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI ZEE NEWS UP
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3876.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", Republic Bharat
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3556.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI NEWS 24
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3727.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI NEWS 18 INDIA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3903.ts
+
