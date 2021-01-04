@@ -300,3 +300,37 @@ https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SonyLIV FHD-India Only", SONY SIX
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", Colors TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3532.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", Colors TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3533.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", ColorsRishtey
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3534.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", BENGALI COLORS BANGLA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3584.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", GUJARATI COLORS GUJARATI
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3600.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", ENGLISH COLORS INFINITY HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3613.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", ColorsRishtey
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3534.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", HINDI COLORS HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3663.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", TAMIL COLORS TAMIL HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3783.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", KANNADA COLORS KANNADA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3836.ts
+
