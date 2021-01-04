@@ -705,3 +705,28 @@ http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3727.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI NEWS 18 INDIA
 http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3903.ts
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", Hum Europe TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3489.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", Hum News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3494.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", UK Hum TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3504.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", Hum Masala
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3505.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", Hum News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3494.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", UK Hum TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3504.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", UK Hum Europe
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3517.ts
+
