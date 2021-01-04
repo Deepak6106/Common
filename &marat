@@ -133,6 +133,115 @@ http://z5amshls.akamaized.net/kalak/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/biharjharkh/playlist.m3u8
 http://z5amshls.akamaized.net/biharjharkh/playlist.m3u8
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Alwan
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/94.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Aflam
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/97.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Documentary
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/281.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/282.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/283.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Mubasher
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/284.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/808.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera English
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1037.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Omroep Zeeland
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1828.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Aljazeera
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3278.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3520.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Cinema
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3521.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Action
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3522.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Classic
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3560.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3562.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3563.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", BANGLA ZEE BANGLA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3585.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", BENGALI ZEE BANGLA CINEMA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3588.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", ENGLISH ZEE CAFE HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3606.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", MARATHI ZEE MARATHI HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3640.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", ODIA ZEE KALINGA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3650.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE CINEMA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3658.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3677.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE ANMOL CINEMA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3682.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE ACTION
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3743.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE NEWS
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3744.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", TAMIL ZEE TAMIL HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3782.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Aflam
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/97.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Documentary
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/281.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/282.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/283.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Mubasher
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/284.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/808.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera English
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1037.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Balkans HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15758.ts
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/wion/playlist.m3u8
 http://z5amshls.akamaized.net/wion/playlist.m3u8
