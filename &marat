@@ -304,6 +304,11 @@ https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", (ONLINE) MARATHI COLORS MARATHI HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3638.ts
+
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", Colors TV
 http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3532.ts
 
